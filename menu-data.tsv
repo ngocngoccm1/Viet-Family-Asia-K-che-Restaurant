@@ -1,34 +1,35 @@
-# category|code|name|description|price|source markers (not rendered; verify before use)
+# Quelle: Speise A4-2_260927_161621.pdf, Seiten 2–19 und 21–24; Seite 20 leer.
+# category|code|name|description|price|source markers (not rendered; incomplete legend in PDF)
 Khai vị / Vorspeisen|1|Nem chay|Kleine vegetarische Rollen, knusprig gebacken; Süß-Chili-Sauce · 8 Stk.|4,50|6
-Khai vị / Vorspeisen|2|Nem rán|Frühlingsrollen mit Huhn, Glasnudeln, Morcheln und Karotten · 2 Stk.|4,90|4,6
-Khai vị / Vorspeisen|3|Wantan chiên|Knusprig gebackene Teigtaschen mit Huhn · 6 Stk.|5,50|1,2,6
+Khai vị / Vorspeisen|2|Nem rán|Knusprig gebackene Frühlingsrollen mit Huhn, Glasnudeln, Morcheln und Karotten; hausgemachte Sauce · 2 Stk.|4,90|4,6
+Khai vị / Vorspeisen|3|Wantan chiên|Knusprig gebackene Teigtaschen mit Huhn; Süß-Chili-Sauce · 6 Stk.|5,50|1,2,6
 Khai vị / Vorspeisen|4|Thịt xiên nướng|Gegrillte Schweinespieße mit Zitronengras und Galgant; Erdnuss-Sauce · 3 Stk.|6,50|4,6
 Khai vị / Vorspeisen|5|Tôm chiên cốm|Knusprig gebackene Garnelen im Corn-Mantel; Süß-Chili-Dip · 5 Stk.|6,90|1,3
 Khai vị / Vorspeisen|6|Edamame|Junge Sojabohnen mit Meersalz|5,50|
-Khai vị / Vorspeisen|7|Gỏi cuốn đậu phụ|Sommerrollen mit Tofu, Salat, Mango, Gurke, Kräutern, Reisnudeln und Erdnüssen · 2 Stk.|5,50|4,5,6,9
-Khai vị / Vorspeisen|8|Gỏi cuốn gà|Sommerrollen mit Huhn, Salat, Mango, Gurke, Kräutern, Reisnudeln und Erdnüssen · 2 Stk.|5,90|4,5,6,9
-Khai vị / Vorspeisen|9|Gỏi cuốn bò|Sommerrollen mit Rind, Salat, Mango, Gurke, Kräutern, Reisnudeln und Erdnüssen · 2 Stk.|6,50|4,5,6,9
-Khai vị / Vorspeisen|10|Gỏi cuốn tôm|Sommerrollen mit Garnelen, Salat, Mango, Gurke, Kräutern, Reisnudeln und Erdnüssen · 2 Stk.|6,50|4,5,6,9
-Khai vị / Vorspeisen|11|Mix Vorspeise|Gemischte Vorspeisenplatte mit Mini-Frühlingsrollen, Wantan, Garnelen sowie Sommerrollen mit Tofu und Huhn · 10 Stk.|11,90|1,3,4,5,6,9
-Súp / Suppen|12|Súp rau đậu phụ|Tofu-Suppe mit Pak-Choi, Champignons, Glasnudeln, Koriander und Gemüse|5,50|2
-Súp / Suppen|13|Súp gà|Hühnersuppe mit Pak-Choi, Champignons, Glasnudeln, Koriander und Gemüse|5,90|
-Súp / Suppen|14|Súp Wantan đậu phụ|Wantan-Suppe mit Tofu, Pak-Choi, Champignons, Glasnudeln und Gemüse|6,50|2
-Súp / Suppen|15|Súp Wantan gà|Wantan-Suppe mit Huhn, Garnelen, Pak-Choi, Glasnudeln und Gemüse|6,50|2
-Súp / Suppen|16|Kokossuppe đậu phụ|Kokosmilch mit Tofu, Zitronengras, Kaffir-Limette, Galgant und Gemüse|5,50|4
-Súp / Suppen|17|Kokossuppe gà|Kokosmilch mit Huhn, Zitronengras, Kaffir-Limette und Gemüse · scharf|5,90|4
-Súp / Suppen|18|Súp chua cay tôm|Garnelensuppe mit Tomaten, Zucchini, Zitronengras und Kaffir-Limette · scharf und sauer|6,50|
-Salate|20|Nộm xoài|Mango-Salat mit Sojasprossen, Röstzwiebeln, Erdnüssen, Koriander und Süßkartoffeln · pikant|8,50|4,5,6
-Salate|21|Gỏi xoài đậu phụ|Gebackener Natur-Tofu mit Mango, Karotten, Kräutern, Röstzwiebeln und Erdnüssen; Limetten-Dressing|8,50|4,5,6
-Salate|22|Gỏi vịt|Hanoi-Salat mit knuspriger Ente, Mango, Karotten, Kräutern und Erdnüssen|11,90|4,5,6
-Salate|23|Nộm cá hồi|Salat mit gegrilltem Lachsfilet, Mango, Karotten, Kräutern und Erdnüssen|11,90|4,5,6
-Salate|24a|Nộm miến · Tofu|Pikanter Glasnudelsalat mit Sojasprossen, Erdnüssen und Koriander|10,50|4,5,6
-Salate|24b|Nộm miến · Hühnerfilet|Pikanter Glasnudelsalat mit Sojasprossen, Erdnüssen und Koriander|10,50|4,5,6
-Salate|24c|Nộm miến · Rind|Pikanter Glasnudelsalat mit Sojasprossen, Erdnüssen und Koriander|11,90|4,5,6
-Salate|24d|Nộm miến · Garnelen|Pikanter Glasnudelsalat mit Sojasprossen, Erdnüssen und Koriander|12,50|4,5,6
+Khai vị / Vorspeisen|7|Gỏi cuốn đậu phụ|Sommerrollen im Reispapier mit Tofu, Salat, Mango, Gurke, Koriander, Majoran, Reisnudeln und Erdnüssen; Fischsauce und Hoisin-Sauce · 2 Stk.|5,50|4,5,6,9
+Khai vị / Vorspeisen|8|Gỏi cuốn gà|Sommerrollen im Reispapier mit Huhn, Salat, Mango, Gurke, Koriander, Majoran, Reisnudeln und Erdnüssen; Fischsauce und Hoisin-Sauce · 2 Stk.|5,90|4,5,6,9
+Khai vị / Vorspeisen|9|Gỏi cuốn bò|Sommerrollen im Reispapier mit Rind, Salat, Mango, Gurke, Koriander, Majoran, Reisnudeln und Erdnüssen; Fischsauce und Hoisin-Sauce · 2 Stk.|6,50|4,5,6,9
+Khai vị / Vorspeisen|10|Gỏi cuốn tôm|Sommerrollen im Reispapier mit Garnelen, Salat, Mango, Gurke, Koriander, Majoran, Reisnudeln und Erdnüssen; Fischsauce und Hoisin-Sauce · 2 Stk.|6,50|4,5,6,9
+Khai vị / Vorspeisen|11|Mix Vorspeise|Gemischte Vorspeisenplatte: je 2 Mini-Frühlingsrollen, gebackene Wantan, gebackene Garnelen, Tofu-Sommerrollen und Huhn-Sommerrollen · 10 Stk.|11,90|1,3,4,5,6,9
+Súp / Suppen|12|Súp rau đậu phụ|Tofu-Suppe mit Pak-Choi, Champignons, Glasnudeln, Koriander, Brokkoli, Karotten, Zucchini und Sesamöl|5,50|2
+Súp / Suppen|13|Súp gà|Hühnersuppe mit Pak-Choi, Champignons, Glasnudeln, Koriander, Brokkoli, Karotten, Zucchini und Sesamöl|5,90|
+Súp / Suppen|14|Súp Wantan đậu phụ|Wantan-Suppe mit Tofu mit Pak-Choi, Champignons, Glasnudeln, Koriander, Brokkoli, Karotten, Zucchini und Sesamöl|6,50|2
+Súp / Suppen|15|Súp Wantan gà|Wantan-Suppe mit Huhn und Garnelen mit Pak-Choi, Champignons, Glasnudeln, Koriander, Brokkoli, Karotten, Zucchini und Sesamöl|6,50|2
+Súp / Suppen|16|Kokossuppe đậu phụ|Kokossuppe mit Tofu, Zitronengras, Kaffir-Limette, Galgant, Auberginen, Champignons, Süßkartoffeln, Basilikum und Karotten|5,50|4
+Súp / Suppen|17|Kokossuppe gà|Kokossuppe mit Huhn, Zitronengras, Kaffir-Limette, Auberginen, Champignons, Süßkartoffeln, Basilikum und Karotten · scharf|5,90|4
+Súp / Suppen|18|Súp chua cay tôm|Garnelensuppe mit Tomaten, Zucchini, Champignons, Lauchzwiebeln, Karotten, Zitronengras und Kaffir-Limette · scharf und sauer|6,50|
+Salate|20|Nộm xoài|Mango-Salat mit Sojasprossen, Röstzwiebeln, Erdnüssen, Koriander, knusprigen Süßkartoffeln und Mango-Sauce · pikant|8,50|4,5,6
+Salate|21|Gỏi xoài đậu phụ|Gebackener Natur-Tofu mit frischen Mangostreifen, Karotten, Salatblättern, Koriander, Minze, Röstzwiebeln und Erdnüssen; hausgemachtes Limetten-Dressing|8,50|4,5,6
+Salate|22|Gỏi vịt|Hanoi-Salat mit knuspriger Ente, Mango, Karotten, frischen Kräutern, Röstzwiebeln und Erdnüssen; Limetten-Dressing|11,90|4,5,6
+Salate|23|Nộm cá hồi|Gegrilltes Lachsfilet mit Mango, Karotten, Salatblättern, Koriander, Minze, Röstzwiebeln und Erdnüssen; Limetten-Dressing|11,90|4,5,6
+Salate|24a|Nộm miến · Tofu|Pikanter Glasnudelsalat mit gebackenem Tofu, Sojasprossen, Erdnüssen, Koriander, Röstzwiebeln und hausgemachter Sauce|10,50|4,5,6
+Salate|24b|Nộm miến · Hühnerfilet|Pikanter Glasnudelsalat mit gegrilltem Hühnerfilet, Sojasprossen, Erdnüssen, Koriander, Röstzwiebeln und hausgemachter Sauce|10,50|4,5,6
+Salate|24c|Nộm miến · Rind|Pikanter Glasnudelsalat mit gegrilltem Rindfleisch, Sojasprossen, Erdnüssen, Koriander, Röstzwiebeln und hausgemachter Sauce|11,90|4,5,6
+Salate|24d|Nộm miến · Garnelen|Pikanter Glasnudelsalat mit gegrillten Garnelen, Sojasprossen, Erdnüssen, Koriander, Röstzwiebeln und hausgemachter Sauce|12,50|4,5,6
 Đồ chay / Vegetarisch|30|Rau xào|Gebratenes Gemüse mit Lauchzwiebeln; dazu Reis|11,90|1,4,6
 Đồ chay / Vegetarisch|31|Rau xào đậu phụ|Gebratenes Gemüse mit Tofu und Lauchzwiebeln; dazu Reis|12,90|1,4,6
-Đồ chay / Vegetarisch|32|Đậu phụ Erdnuss|Tofu in Erdnuss-Kokos-Curry-Sauce mit Gemüse; dazu Reis · pikant|13,90|1,4,5,6
-Đồ chay / Vegetarisch|33|Đậu phụ Curry|Tofu in Kokosmilch und rotem Curry mit Gemüse; dazu Reis · scharf|13,90|1,4,6
+Đồ chay / Vegetarisch|32|Đậu phụ Erdnuss|Tofu in Erdnuss-Kokos-Curry-Sauce mit Paprika, Zucchini, Karotten, Süßkartoffeln, Zwiebeln und Champignons; dazu Reis · pikant|13,90|1,4,5,6
+Đồ chay / Vegetarisch|33|Đậu phụ Curry|Tofu in Kokosmilch und rotem Curry mit Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen und Basilikum; dazu Reis · scharf|13,90|1,4,6
 Đồ chay / Vegetarisch|34a|Đậu phụ chiên · Süß-Sauer-Soße|Gebackener Tofu mit Gemüse; dazu Reis|13,50|1,4,6
 Đồ chay / Vegetarisch|34b|Đậu phụ chiên · Pikant-Soße|Gebackener Tofu mit Gemüse; dazu Reis|13,50|1,4,6
 Đồ chay / Vegetarisch|34c|Đậu phụ chiên · Teriyaki-Soße|Gebackener Tofu mit Gemüse; dazu Reis|13,90|1,4,6
@@ -36,116 +37,116 @@ Salate|24d|Nộm miến · Garnelen|Pikanter Glasnudelsalat mit Sojasprossen, Er
 Đồ chay / Vegetarisch|34e|Đậu phụ chiên · Erdnuss-Soße|Gebackener Tofu mit Gemüse; dazu Reis|13,90|1,4,6
 Đồ chay / Vegetarisch|34f|Đậu phụ chiên · Mango-Soße|Gebackener Tofu mit Gemüse; dazu Reis|13,90|1,4,6
 Đồ chay / Vegetarisch|35|Đậu phụ xào sả ớt|Gebackener Bio-Tofu mit Gemüse, Knoblauch, Zitronengras und Chili; dazu Reis · scharf|12,90|1,4,6
-Gà / Huhn|40|Gà chua ngọt|Knuspriges Hühnerfilet mit Ananas, Gemüse und Süß-Sauer-Sauce; dazu Reis|14,90|1,2,4,6
-Gà / Huhn|41|Gà cay|Knuspriges Hühnerfilet mit Gemüse und Pikant-Sauce; dazu Reis · scharf|14,90|1,2,4,6
-Gà / Huhn|42|Gà Teriyaki|Knuspriges Hühnerfilet mit Gemüse und Teriyaki-Sauce; dazu Reis|15,50|1,2,4,6,7
-Gà / Huhn|43|Gà Kokos|Knuspriges Hühnerfilet mit Kokosmilch, rotem Curry und Gemüse; dazu Reis · scharf|15,50|1,2,4,6
-Gà / Huhn|44|Gà xào rau|Hühnerfilet mit knackigem Gemüse; dazu Reis|13,90|1,4,6
-Gà / Huhn|45|Gà xào sả ớt|Hühnerfilet mit Zitronengras, Paprika, Gemüse und Peperoni; dazu Reis · scharf|13,50|1,4,6
-Gà / Huhn|46|Gà Erdnuss|Hühnerfilet in Erdnuss-Kokos-Curry-Sauce mit Gemüse; dazu Reis · pikant|14,90|1,4,6
-Gà / Huhn|47|Gà Curry|Hühnerfilet mit Kokosmilch, rotem Curry und Gemüse; dazu Reis · scharf|14,90|1,4,6
-Vịt / Ente|50|Vịt chua ngọt|Knusprig gebackene Ente mit Süß-Sauer-Sauce, Ananas und Gemüse; dazu Reis|16,50|1,2,4,6
-Vịt / Ente|51|Vịt cay|Knusprig gebackene Ente mit Gemüse und scharfer Sauce; dazu Reis|16,50|1,2,4,6
-Vịt / Ente|52|Vịt Teriyaki|Knusprig gebackene Ente mit Gemüse und Teriyaki-Sauce; dazu Reis|16,90|1,2,4,6,7
-Vịt / Ente|53|Vịt Kokos|Knusprig gebackene Ente mit Kokosmilch, rotem Curry und Gemüse; dazu Reis · pikant|16,90|1,2,4,6
-Vịt / Ente|54|Vịt chiên Erdnuss|Knusprig gebackene Ente in Erdnuss-Kokos-Curry-Sauce mit Gemüse; dazu Reis · pikant|16,90|1,4,5,6
-Vịt / Ente|55|Vịt Mango|Knusprig gebackene Ente mit Mango-Sauce, Mango und Gemüse; dazu Reis|16,90|1,2,4,6
-Vịt / Ente|56|Vịt xào rau|Entenfleisch mit Basilikum, Zitronengras, Chili und Gemüse; dazu Reis · scharf|14,90|1,4,6
+Gà / Huhn|40|Gà chua ngọt|Knuspriges Hühnerfilet mit Ananas, Paprika, Zwiebeln, Karotten und Süß-Sauer-Sauce; dazu Reis|14,90|1,2,4,6
+Gà / Huhn|41|Gà cay|Knuspriges Hühnerfilet mit Zwiebeln, Karotten, Paprika, Lauchzwiebeln, Sellerie, Brokkoli, Peperoni und Pikant-Sauce; dazu Reis · scharf|14,90|1,2,4,6
+Gà / Huhn|42|Gà Teriyaki|Knuspriges Hühnerfilet mit Zwiebeln, Karotten, Paprika, Lauchzwiebeln, Sojasprossen und Teriyaki-Sauce; dazu Reis|15,50|1,2,4,6,7
+Gà / Huhn|43|Gà Kokos|Knuspriges Hühnerfilet mit Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen, Basilikum und roter Curry-Sauce; dazu Reis · scharf|15,50|1,2,4,6
+Gà / Huhn|44|Gà xào rau|Hühnerfilet mit Karotten, Zwiebeln, Pak-Choi, Lauchzwiebeln, Paprika, Zucchini, Sellerie und Brokkoli; dazu Reis|13,90|1,4,6
+Gà / Huhn|45|Gà xào sả ớt|Hühnerfilet mit Zitronengras, Paprika, Karotten, Zwiebeln, Peperoni, Lauchzwiebeln und Sellerie; dazu Reis · scharf|13,50|1,4,6
+Gà / Huhn|46|Gà Erdnuss|Hühnerfilet in Erdnuss-Kokos-Curry-Sauce mit Paprika, Zucchini, Karotten, Süßkartoffeln, Zwiebeln und Champignons; dazu Reis · pikant|14,90|1,4,6
+Gà / Huhn|47|Gà Curry|Hühnerfilet mit Kokosmilch, rotem Curry, Süßkartoffeln, Zwiebeln, Paprika, Champignons, Auberginen, Basilikum, Koriander und Zucchini; dazu Reis · scharf|14,90|1,4,6
+Vịt / Ente|50|Vịt chua ngọt|Knusprig gebackene Ente mit Süß-Sauer-Sauce, Paprika, Ananas, Karotten und Zwiebeln; dazu Reis|16,50|1,2,4,6
+Vịt / Ente|51|Vịt cay|Knusprig gebackene Ente mit Zwiebeln, Paprika, Karotten, Lauchzwiebeln, Zucchini, Sellerie, Peperoni, Brokkoli, Champignons und scharfer Sauce; dazu Reis · scharf|16,50|1,2,4,6
+Vịt / Ente|52|Vịt Teriyaki|Knusprig gebackene Ente mit Zwiebeln, Karotten, Sojasprossen, Lauchzwiebeln, Paprika und Teriyaki-Sauce; dazu Reis|16,90|1,2,4,6,7
+Vịt / Ente|53|Vịt Kokos|Knusprig gebackene Ente mit Kokosmilch, rotem Curry und Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen; dazu Reis · pikant|16,90|1,2,4,6
+Vịt / Ente|54|Vịt chiên Erdnuss|Knusprig gebackene Ente in Erdnuss-Kokos-Curry-Sauce mit Paprika, Zucchini, Karotten, Süßkartoffeln, Zwiebeln und Champignons; dazu Reis · pikant|16,90|1,4,5,6
+Vịt / Ente|55|Vịt Mango|Knusprig gebackene Ente mit Mango-Sauce, Mango, Paprika, Zwiebeln, Karotten und Süßkartoffeln; dazu Reis|16,90|1,2,4,6
+Vịt / Ente|56|Vịt xào rau|Entenfleisch mit Basilikum, Zitronengras, Zwiebeln, Paprika, Karotten, Brokkoli, Peperoni, Lauchzwiebeln, Chilipaste, Zucchini, Pak-Choi und Sellerie; dazu Reis · scharf|14,90|1,4,6
 Bò / Rind|60|Bò xào rau|Rindfleischstreifen mit Ingwer und Gemüse; dazu Reis|15,90|1,4,6
-Bò / Rind|61|Bò xào dứa|Rindfleischstreifen mit Ananas und Gemüse; dazu Reis|15,90|1,4,6
-Bò / Rind|62|Bò xào cay|Rindfleischstreifen mit Basilikum, Peperoni und Gemüse; dazu Reis · scharf|15,90|1,4,6,7
-Bò / Rind|63|Bò Curry|Rindfleisch mit Kokosmilch, rotem Curry und Gemüse; dazu Reis · pikant|16,50|1,4,6
-Tôm / Garnelen|64|Tôm xào tỏi|Garnelen mit Chilipaste, Zwiebeln und Gemüse; dazu Reis|17,50|1,4,6
-Tôm / Garnelen|65|Tôm xào sả ớt|Garnelen mit Zitronengras, Peperoni und Gemüse; dazu Reis · leicht scharf|17,50|1,4,6
-Tôm / Garnelen|66|Tôm Curry|Garnelen mit Kokosmilch, rotem Curry und Gemüse; dazu Reis · pikant|17,90|1,4,6
-Đồ nướng / Gegrilltes|70|Gà nướng Mango|Gegrilltes Hühnerfilet mit Gemüse, Mango und Mango-Sauce; dazu Reis|14,90|1,4,6
-Đồ nướng / Gegrilltes|71|Gà nướng cay|Gegrilltes Hühnerfilet mit Gemüse und Pikant-Sauce; dazu Reis · scharf|14,90|1,4,6
-Đồ nướng / Gegrilltes|72|Gà nướng Teriyaki|Gegrilltes Hühnerfilet mit Gemüse und Teriyaki-Sauce; dazu Reis|14,90|1,4,6,7
-Đồ nướng / Gegrilltes|73|Bò nướng|Gegrilltes Rind mit Salat, Mango, Erdnüssen und Süßkartoffeln|17,50|1,4,5,6
-Đồ nướng / Gegrilltes|74|Tôm nướng Teriyaki|Gegrillte Garnelen mit Gemüse und Teriyaki-Sauce; dazu Reis|17,50|2,4,6,7
-Đồ nướng / Gegrilltes|75|Cá hồi nướng|Gegrillter Lachs mit Salat, Mango und Süßkartoffeln|18,50|1,4,5,6
-Đồ nướng / Gegrilltes|76|Cá hồi nướng cay|Gegrillter Lachs mit Salat, Mango und Süßkartoffeln · scharf|17,90|1,4,6
-Đồ nướng / Gegrilltes|77|Cá hồi nướng Kokos|Gegrillter Lachs mit Kokosmilch, rotem Curry und Gemüse · pikant|18,50|1,4,6,7
-Đồ nướng / Gegrilltes|78|Cá hồi nướng Mango|Gegrillter Lachs mit Mango-Sauce und Gemüse|18,50|1,4,6
-Đồ nướng / Gegrilltes|79|Cá hồi nướng Teriyaki|Gegrillter Lachs mit Gemüse und Teriyaki-Sauce|18,50|1,4,6,7
-Mì xào & Cơm rang / Gebratenes|80a|Mì xào · Gemüse|Gebratene Nudeln mit Gemüse und Ei|10,90|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|80b|Mì xào · Tofu|Gebratene Nudeln mit Gemüse und Ei|12,50|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|80c|Mì xào · Hähnchen|Gebratene Nudeln mit Gemüse und Ei|12,90|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|80d|Mì xào · Rindfleisch|Gebratene Nudeln mit Gemüse und Ei|13,90|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|80e|Mì xào · gebratene Ente|Gebratene Nudeln mit Gemüse und Ei|13,90|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|80f|Mì xào · Garnelen|Gebratene Nudeln mit Gemüse und Ei|17,50|1,3,4,6
-Mì xào & Cơm rang / Gebratenes|81a|Phở xào · Gemüse|Gebratene Reisbandnudeln mit Gemüse und Ei|11,50|
-Mì xào & Cơm rang / Gebratenes|81b|Phở xào · Tofu|Gebratene Reisbandnudeln mit Gemüse und Ei|12,90|
-Mì xào & Cơm rang / Gebratenes|81c|Phở xào · Hähnchen|Gebratene Reisbandnudeln mit Gemüse und Ei|13,50|
-Mì xào & Cơm rang / Gebratenes|81d|Phở xào · Rindfleisch|Gebratene Reisbandnudeln mit Gemüse und Ei|14,50|
-Mì xào & Cơm rang / Gebratenes|81e|Phở xào · gebratene Ente|Gebratene Reisbandnudeln mit Gemüse und Ei|14,50|
-Mì xào & Cơm rang / Gebratenes|81f|Phở xào · Garnelen|Gebratene Reisbandnudeln mit Gemüse und Ei|17,90|
-Mì xào & Cơm rang / Gebratenes|82a|Udon xào · Gemüse|Gebratene Udon-Nudeln mit Gemüse und Ei|11,50|
-Mì xào & Cơm rang / Gebratenes|82b|Udon xào · Tofu|Gebratene Udon-Nudeln mit Gemüse und Ei|12,90|
-Mì xào & Cơm rang / Gebratenes|82c|Udon xào · Hähnchen|Gebratene Udon-Nudeln mit Gemüse und Ei|13,50|
-Mì xào & Cơm rang / Gebratenes|82d|Udon xào · Rindfleisch|Gebratene Udon-Nudeln mit Gemüse und Ei|14,50|
-Mì xào & Cơm rang / Gebratenes|82e|Udon xào · gebratene Ente|Gebratene Udon-Nudeln mit Gemüse und Ei|14,50|
-Mì xào & Cơm rang / Gebratenes|82f|Udon xào · Garnelen|Gebratene Udon-Nudeln mit Gemüse und Ei|17,90|
-Mì xào & Cơm rang / Gebratenes|83a|Cơm rang · Gemüse|Gebratener Reis mit Gemüse und Ei|10,90|
-Mì xào & Cơm rang / Gebratenes|83b|Cơm rang · Tofu|Gebratener Reis mit Gemüse und Ei|12,50|
-Mì xào & Cơm rang / Gebratenes|83c|Cơm rang · Hähnchen|Gebratener Reis mit Gemüse und Ei|12,90|
-Mì xào & Cơm rang / Gebratenes|83d|Cơm rang · Rindfleisch|Gebratener Reis mit Gemüse und Ei|13,90|
-Mì xào & Cơm rang / Gebratenes|83e|Cơm rang · gebratene Ente|Gebratener Reis mit Gemüse und Ei|13,90|
-Mì xào & Cơm rang / Gebratenes|83f|Cơm rang · Garnelen|Gebratener Reis mit Gemüse und Ei|17,50|
-Đặc sản quán / Spezialitäten|90a|Cơm niêu · Hühnerbrustfilet|Duftreis, Gemüse und Eier mit hausgemachter Sauce|14,90|3
-Đặc sản quán / Spezialitäten|90b|Cơm niêu · Rindfleisch|Duftreis, Gemüse und Eier mit hausgemachter Sauce|15,90|3
-Đặc sản quán / Spezialitäten|90c|Cơm niêu · Garnelen|Duftreis, Gemüse und Eier mit hausgemachter Sauce|17,90|3
-Đặc sản quán / Spezialitäten|91a|Bí đỏ Sapa · Tofu|Bio-Hokkaido-Kürbis, Süßkartoffeln, Gemüse und Curry-Kokosmilch-Sauce|13,90|1,4,6
-Đặc sản quán / Spezialitäten|91b|Bí đỏ Sapa · Hühnerbrustfilet|Bio-Hokkaido-Kürbis, Süßkartoffeln, Gemüse und Curry-Kokosmilch-Sauce|13,90|1,4,6
-Đặc sản quán / Spezialitäten|91c|Bí đỏ Sapa · knusprige Ente|Bio-Hokkaido-Kürbis, Süßkartoffeln, Gemüse und Curry-Kokosmilch-Sauce|15,50|1,4,6
-Đặc sản quán / Spezialitäten|91d|Bí đỏ Sapa · Garnelen|Bio-Hokkaido-Kürbis, Süßkartoffeln, Gemüse und Curry-Kokosmilch-Sauce|17,50|1,4,6
-Đặc sản quán / Spezialitäten|91e|Bí đỏ Sapa · gegrillter Lachs|Bio-Hokkaido-Kürbis, Süßkartoffeln, Gemüse und Curry-Kokosmilch-Sauce|17,90|1,4,6
-Đặc sản quán / Spezialitäten|92|Vịt nướng hột điều|Gegrillte Barbarie-Ente mit Gemüse, Cashewnüssen und Süßkartoffeln|17,90|
-Đặc sản quán / Spezialitäten|93|Cá hồi nướng đặc biệt|Lachssteak mit gegrillten Garnelen, Gemüse und Süßkartoffeln|18,90|
-Bún / Reisnudeln|BU1|Bún đậu Erdnuss|Tofu in Erdnuss-Curry-Sauce mit Reisnudeln und Gemüse · scharf|13,90|4,6
+Bò / Rind|61|Bò xào dứa|Rindfleischstreifen mit Ananas, Zwiebeln, Paprika, Karotten und Lauchzwiebeln; dazu Reis|15,90|1,4,6
+Bò / Rind|62|Bò xào cay|Rindfleischstreifen mit Basilikum, Peperoni, Zwiebeln, Karotten, Paprika, Pak-Choi und Lauchzwiebeln; dazu Reis · scharf|15,90|1,4,6,7
+Bò / Rind|63|Bò Curry|Rindfleisch mit Kokosmilch, rotem Curry, Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen und Basilikum; dazu Reis · pikant|16,50|1,4,6
+Tôm / Garnelen|64|Tôm xào tỏi|Garnelen mit Chilipaste, Zwiebeln, Paprika, Karotten, Brokkoli, Lauchzwiebeln, Pak-Choi und Sellerie; dazu Reis|17,50|1,4,6
+Tôm / Garnelen|65|Tôm xào sả ớt|Garnelen mit Zitronengras, Paprika, Zwiebeln, Peperoni, Karotten und Sellerie; dazu Reis · leicht scharf|17,50|1,4,6
+Tôm / Garnelen|66|Tôm Curry|Garnelen mit Kokosmilch, rotem Curry und Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen; dazu Reis · pikant|17,90|1,4,6
+Đồ nướng / Gegrilltes|70|Gà nướng Mango|Gegrilltes Hühnerfilet mit Gemüse, Paprika, Süßkartoffeln, Mango und Mango-Sauce; dazu Reis|14,90|1,4,6
+Đồ nướng / Gegrilltes|71|Gà nướng cay|Gegrilltes Hühnerfilet mit Zucchini, Paprika, Karotten, Brokkoli, Champignons, Sellerie, Peperoni, Lauchzwiebeln und Pikant-Sauce; dazu Reis · scharf|14,90|1,4,6
+Đồ nướng / Gegrilltes|72|Gà nướng Teriyaki|Gegrilltes Hühnerfilet mit Zwiebeln, Karotten, Sojasprossen, Lauchzwiebeln, Paprika und Teriyaki-Sauce; dazu Reis|14,90|1,4,6,7
+Đồ nướng / Gegrilltes|73|Bò nướng|Gegrilltes Rindfleisch mit Salat, Tomaten, Mango, Erdnüssen, Röstzwiebeln, Koriander und hausgemachter Sauce; dazu Reis und knusprige Süßkartoffeln|17,50|1,4,5,6
+Đồ nướng / Gegrilltes|74|Tôm nướng Teriyaki|Gegrillte Garnelen mit Zucchini, Zwiebeln, Paprika, Pak-Choi, Champignons, Karotten, Sellerie und Teriyaki-Sauce; dazu Reis|17,50|2,4,6,7
+Đồ nướng / Gegrilltes|75|Cá hồi nướng|Gegrilltes Lachsfilet mit Salat, Tomaten, Mango, Koriander und hausgemachter Sauce; dazu Reis und knusprige Süßkartoffeln|18,50|1,4,5,6
+Đồ nướng / Gegrilltes|76|Cá hồi nướng cay|Gegrilltes Lachsfilet mit Salat, Tomaten, Mango, Koriander und hausgemachter Sauce; dazu Reis und knusprige Süßkartoffeln · scharf|17,90|1,4,6
+Đồ nướng / Gegrilltes|77|Cá hồi nướng Kokos|Gegrilltes Lachsfilet mit Kokosmilch, rotem Curry und Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen; dazu Reis · pikant. Auf Wunsch Erdnuss-Sauce statt Curry-Sauce.|18,50|1,4,6,7
+Đồ nướng / Gegrilltes|78|Cá hồi nướng Mango|Gegrilltes Lachsfilet mit Zwiebeln, Karotten, Süßkartoffeln, Paprika, Mango und Mango-Sauce; dazu Reis|18,50|1,4,6
+Đồ nướng / Gegrilltes|79|Cá hồi nướng Teriyaki|Gegrilltes Lachsfilet mit Zwiebeln, Karotten, Sojasprossen, Lauchzwiebeln und Teriyaki-Sauce; dazu Reis|18,50|1,4,6,7
+Mì xào & Cơm rang / Gebratenes|80a|Mì xào · Gemüse|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|10,90|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|80b|Mì xào · Tofu|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,50|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|80c|Mì xào · Hähnchen|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,90|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|80d|Mì xào · Rindfleisch|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,90|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|80e|Mì xào · gebratene Ente|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,90|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|80f|Mì xào · Garnelen|Gebratene Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|17,50|1,3,4,6
+Mì xào & Cơm rang / Gebratenes|81a|Phở xào · Gemüse|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|11,50|
+Mì xào & Cơm rang / Gebratenes|81b|Phở xào · Tofu|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,90|
+Mì xào & Cơm rang / Gebratenes|81c|Phở xào · Hähnchen|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,50|
+Mì xào & Cơm rang / Gebratenes|81d|Phở xào · Rindfleisch|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|
+Mì xào & Cơm rang / Gebratenes|81e|Phở xào · gebratene Ente|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|
+Mì xào & Cơm rang / Gebratenes|81f|Phở xào · Garnelen|Gebratene Reisbandnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|17,90|
+Mì xào & Cơm rang / Gebratenes|82a|Udon xào · Gemüse|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|11,50|
+Mì xào & Cơm rang / Gebratenes|82b|Udon xào · Tofu|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,90|
+Mì xào & Cơm rang / Gebratenes|82c|Udon xào · Hähnchen|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,50|
+Mì xào & Cơm rang / Gebratenes|82d|Udon xào · Rindfleisch|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|
+Mì xào & Cơm rang / Gebratenes|82e|Udon xào · gebratene Ente|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|
+Mì xào & Cơm rang / Gebratenes|82f|Udon xào · Garnelen|Gebratene Udon-Nudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|17,90|
+Mì xào & Cơm rang / Gebratenes|83a|Cơm rang · Gemüse|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|10,90|
+Mì xào & Cơm rang / Gebratenes|83b|Cơm rang · Tofu|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,50|
+Mì xào & Cơm rang / Gebratenes|83c|Cơm rang · Hähnchen|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,90|
+Mì xào & Cơm rang / Gebratenes|83d|Cơm rang · Rindfleisch|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,90|
+Mì xào & Cơm rang / Gebratenes|83e|Cơm rang · gebratene Ente|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,90|
+Mì xào & Cơm rang / Gebratenes|83f|Cơm rang · Garnelen|Gebratener Reis mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|17,50|
+Đặc sản quán / Spezialitäten|90a|Cơm niêu · Hühnerbrustfilet|Traditioneller Reis mit gebratenem Hühnerbrustfilet, Gemüse, Eiern und hausgemachter Sauce|14,90|3
+Đặc sản quán / Spezialitäten|90b|Cơm niêu · Rindfleisch|Traditioneller Reis mit gebratenem Rindfleisch, Gemüse, Eiern und hausgemachter Sauce|15,90|3
+Đặc sản quán / Spezialitäten|90c|Cơm niêu · Garnelen|Traditioneller Reis mit gebratenen Garnelen, Gemüse, Eiern und hausgemachter Sauce|17,90|3
+Đặc sản quán / Spezialitäten|91a|Bí đỏ Sapa · Tofu|Bio-Hokkaido-Kürbis mit gebratenem Tofu, Süßkartoffeln, gemischtem Gemüse und Curry-Kokosmilch-Sauce|13,90|1,4,6
+Đặc sản quán / Spezialitäten|91b|Bí đỏ Sapa · Hühnerbrustfilet|Bio-Hokkaido-Kürbis mit gebratenem Hühnerbrustfilet, Süßkartoffeln, gemischtem Gemüse und Curry-Kokosmilch-Sauce|13,90|1,4,6
+Đặc sản quán / Spezialitäten|91c|Bí đỏ Sapa · knusprige Ente|Bio-Hokkaido-Kürbis mit knuspriger Ente, Süßkartoffeln, gemischtem Gemüse und Curry-Kokosmilch-Sauce|15,50|1,4,6
+Đặc sản quán / Spezialitäten|91d|Bí đỏ Sapa · Garnelen|Bio-Hokkaido-Kürbis mit gebratenen Garnelen, Süßkartoffeln, gemischtem Gemüse und Curry-Kokosmilch-Sauce|17,50|1,4,6
+Đặc sản quán / Spezialitäten|91e|Bí đỏ Sapa · gegrillter Lachs|Bio-Hokkaido-Kürbis mit gegrilltem Lachs, Süßkartoffeln, gemischtem Gemüse und Curry-Kokosmilch-Sauce|17,90|1,4,6
+Đặc sản quán / Spezialitäten|92|Vịt nướng hột điều|Medium gegrillte französische Barbarie-Ente mit hausgemachter Sauce, knackigem Gemüse, Cashewnüssen, Knoblauch und Süßkartoffeln|17,90|
+Đặc sản quán / Spezialitäten|93|Cá hồi nướng đặc biệt|Gegrilltes Lachssteak mit gegrillten Garnelen, knackigem Gemüse, hausgemachter Sauce und Süßkartoffeln|18,90|
+Bún / Reisnudeln|BU1|Bún đậu Erdnuss|Tofuwürfel in Erdnuss-Curry-Sauce mit Reisnudeln und Paprika, Zucchini, Karotten, Süßkartoffeln, Zwiebeln und Champignons · scharf|13,90|4,6
 Bún / Reisnudeln|BU2|Bún đậu chiên|Gebackener Tofu mit Reisnudeln, Salat, Gurke und hausgemachter Sauce|13,50|4,5,6
-Bún / Reisnudeln|BU3|Bún gà Curry|Hühnerfleisch in roter Curry-Sauce mit Reisnudeln und Gemüse · scharf|13,90|4,6
-Bún / Reisnudeln|BU4|Bún nem rán|Frühlingsrollen mit Reisnudeln, Salat und frischen Kräutern|11,90|1,4,5,6
-Bún / Reisnudeln|BU5|Bún bò Nam bộ|Gegrilltes Rindfleisch mit Reisnudeln, Salat und frischen Kräutern|13,90|1,4,5,6
-Bún / Reisnudeln|BU6|Bún gà Nam bộ|Gegrilltes Hühnerfilet mit Reisnudeln, Salat und frischen Kräutern|12,90|1,4,5,6
-Bún / Reisnudeln|BU7|Bún bò lá lốt|Rindfleisch in vietnamesischen Pfefferblättern mit Reisnudeln, Salat und Kräutern|15,50|1,4,5,6
-Bún / Reisnudeln|BU8|Bún chả cá|Gegrillter Tilapia mit Reisnudeln, Salat, Dill und Erdnüssen|15,50|1,4,5,6
-Bún / Reisnudeln|BU9|Bún chả|Gegrilltes Schweinefleisch mit Reisnudeln, Salat und frischen Kräutern|14,90|1,4,5,6
+Bún / Reisnudeln|BU3|Bún gà Curry|Hühnerfleisch in roter Curry-Sauce mit Reisnudeln, Süßkartoffeln, Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen und Basilikum · scharf|13,90|4,6
+Bún / Reisnudeln|BU4|Bún nem rán|Portioniert geschnittene Frühlingsrollen mit Reisnudeln, Salat, frischen Kräutern und hausgemachter Sauce|11,90|1,4,5,6
+Bún / Reisnudeln|BU5|Bún bò Nam bộ|Gegrilltes Rindfleisch mit Reisnudeln, Salat, frischen Kräutern, Gurke und hausgemachter Sauce|13,90|1,4,5,6
+Bún / Reisnudeln|BU6|Bún gà Nam bộ|Gegrilltes Hühnerfilet mit Reisnudeln, Salat, frischen Kräutern, Gurke und hausgemachter Sauce|12,90|1,4,5,6
+Bún / Reisnudeln|BU7|Bún bò lá lốt|Gegrilltes Rindfleisch in vietnamesischen Pfefferblättern mit Reisnudeln, Salat, Gurke, frischen Kräutern und hausgemachter Sauce|15,50|1,4,5,6
+Bún / Reisnudeln|BU8|Bún chả cá|Gegrillter Tilapia mit Reisnudeln, Salat, Dill, roten Zwiebeln, Röstzwiebeln, Gurke, Erdnüssen und hausgemachter Sauce|15,50|1,4,5,6
+Bún / Reisnudeln|BU9|Bún chả|Gegrilltes Schweinefleisch mit Reisnudeln, Salat, Gurke, frischen Kräutern und hausgemachter Sauce|14,90|1,4,5,6
 Miến / Glasnudeln|M1|Miến đậu phụ|Glasnudelsuppe mit Tofu, Pak-Choi, Sojasprossen und Koriander|12,50|6
-Miến / Glasnudeln|M2|Miến Wantan gà|Glasnudelsuppe mit Huhn, Wantan, Pak-Choi und Sojasprossen|13,90|4,6
-Miến / Glasnudeln|M3|Miến gà|Glasnudelsuppe mit Hühnerfleisch, Sojasprossen und Koriander|13,90|6
-Miến / Glasnudeln|M4|Miến bò|Glasnudelsuppe mit Rindfleisch, Sojasprossen und Koriander|14,90|6
-Miến / Glasnudeln|M5|Miến bò tái lăn|Glasnudelsuppe mit gebratenem Rindfleisch, Knoblauch und Sojasprossen|14,90|6
-Miến / Glasnudeln|M6a|Miến xào · Gemüse|Gebratene Glasnudeln mit Gemüse und Ei|11,50|1,3,4,6
-Miến / Glasnudeln|M6b|Miến xào · Tofu|Gebratene Glasnudeln mit Gemüse und Ei|12,90|1,3,4,6
-Miến / Glasnudeln|M6c|Miến xào · Hähnchen|Gebratene Glasnudeln mit Gemüse und Ei|13,50|1,3,4,6
-Miến / Glasnudeln|M6d|Miến xào · Rindfleisch|Gebratene Glasnudeln mit Gemüse und Ei|14,50|1,3,4,6
-Miến / Glasnudeln|M6e|Miến xào · gebratene Ente|Gebratene Glasnudeln mit Gemüse und Ei|14,50|1,3,4,6
-Miến / Glasnudeln|M6f|Miến xào · Garnelen|Gebratene Glasnudeln mit Gemüse und Ei|17,90|1,3,4,6
+Miến / Glasnudeln|M2|Miến Wantan gà|Glasnudelsuppe mit Huhn, Wantan, Pak-Choi, Sojasprossen und Koriander|13,90|4,6
+Miến / Glasnudeln|M3|Miến gà|Glasnudelsuppe mit Hühnerfleisch, Sojasprossen, Lauchzwiebeln und Koriander|13,90|6
+Miến / Glasnudeln|M4|Miến bò|Glasnudelsuppe mit Rindfleisch, Sojasprossen, Lauchzwiebeln und Koriander|14,90|6
+Miến / Glasnudeln|M5|Miến bò tái lăn|Glasnudelsuppe mit gebratenem Rindfleisch, Knoblauch, Sojasprossen, Lauchzwiebeln und Koriander|14,90|6
+Miến / Glasnudeln|M6a|Miến xào · Gemüse|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|11,50|1,3,4,6
+Miến / Glasnudeln|M6b|Miến xào · Tofu|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|12,90|1,3,4,6
+Miến / Glasnudeln|M6c|Miến xào · Hähnchen|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|13,50|1,3,4,6
+Miến / Glasnudeln|M6d|Miến xào · Rindfleisch|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|1,3,4,6
+Miến / Glasnudeln|M6e|Miến xào · gebratene Ente|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|14,50|1,3,4,6
+Miến / Glasnudeln|M6f|Miến xào · Garnelen|Gebratene Glasnudeln mit Karotten, Lauchzwiebeln, Brokkoli, Zwiebeln, Pak-Choi, Sojasprossen und Ei|17,90|1,3,4,6
 Phở Hà Nội|P1|Phở đậu phụ|Reisbandnudelsuppe mit Tofu, Sojasprossen, Pak-Choi und Koriander|11,90|
-Phở Hà Nội|P2|Phở Wantan đậu phụ|Reisbandnudelsuppe mit Tofu-Wantan, Sojasprossen und Pak-Choi|13,50|
-Phở Hà Nội|P3|Phở Wantan gà|Reisbandnudelsuppe mit Garnelen-Hühnerfleisch-Wantan und Gemüse|13,90|
-Phở Hà Nội|P4|Phở gà|Reisbandnudelsuppe mit Hühnerfleisch, Sojasprossen und Koriander|13,90|
-Phở Hà Nội|P5|Phở bò tái|Reisbandnudelsuppe mit Rindfleisch, Ingwer und frischen Kräutern|13,90|
-Phở Hà Nội|P6|Phở bò tái lăn|Reisbandnudelsuppe mit gebratenem Rindfleisch und frischen Kräutern|13,90|
-Phở Hà Nội|P7|Phở bò chín|Reisbandnudelsuppe mit dünnen Rindfleischscheiben und frischen Kräutern|13,90|
-Phở Hà Nội|P8|Phở bò trộn|Reisbandnudeln mit gebratenem Rindfleisch, Salat, Kräutern und Erdnüssen|13,90|4,5,6
+Phở Hà Nội|P2|Phở Wantan đậu phụ|Reisbandnudelsuppe mit Tofu-Wantan, Sojasprossen, Pak-Choi und Koriander|13,50|
+Phở Hà Nội|P3|Phở Wantan gà|Reisbandnudelsuppe mit Garnelen-Hühnerfleisch-Wantan, Sojasprossen, Pak-Choi und Koriander|13,90|
+Phở Hà Nội|P4|Phở gà|Reisbandnudelsuppe mit Hühnerfleisch, Lauchzwiebeln, Sojasprossen, Koriander und Kaffir-Limette|13,90|
+Phở Hà Nội|P5|Phở bò tái|Reisbandnudelsuppe mit medium Rindfleisch, Ingwer, roten Zwiebeln, Lauchzwiebeln und frischen Kräutern|13,90|
+Phở Hà Nội|P6|Phở bò tái lăn|Reisbandnudelsuppe mit gebratenem Rindfleisch, roten Zwiebeln, Lauchzwiebeln und frischen Kräutern|13,90|
+Phở Hà Nội|P7|Phở bò chín|Reisbandnudelsuppe mit hauchdünnen Rindfleischscheiben, roten Zwiebeln, Lauchzwiebeln und frischen Kräutern|13,90|
+Phở Hà Nội|P8|Phở bò trộn|Reisbandnudeln mit gebratenem Rindfleisch, Knoblauch, Salat, Koriander, Sojasprossen, Zwiebeln, gerösteten Erdnüssen und hausgemachter Sauce|13,90|4,5,6
 Tráng miệng / Dessert|N1|Bánh rán|Sesam-Klebreisbällchen · 6 Stk.|4,90|
 Tráng miệng / Dessert|N2|Chuối chiên|Gebackene Banane mit Honig und Kokosraspeln|4,90|2
 Tráng miệng / Dessert|N3|Bánh chuối|Gedämpfte Banane im Klebreismantel mit Kokoscreme|5,50|
 Tráng miệng / Dessert|N4|Bánh khoai môn|Gedämpfter Taro im Klebreismantel mit Kokoscreme|5,50|
-Mittagsangebot|MT1|Kokossuppe gà|Kokossuppe mit Hühnerfleisch, Gemüse und Reis · scharf|7,40|4
+Mittagsangebot|MT1|Kokossuppe gà|Kokossuppe mit Hühnerfleisch, Tom-Yam-Paste, Auberginen, Champignons und Karotten; dazu Reis · scharf|7,40|4
 Mittagsangebot|MT2|Rau xào|Gebratenes Gemüse mit Lauchzwiebeln; dazu Reis|9,50|1,4,6
-Mittagsangebot|MT3|Đậu phụ Curry|Tofu mit roter Thai-Curry-Sauce und Gemüse; dazu Reis · scharf|10,90|1,4,6
-Mittagsangebot|MT4|Gà xào nấm|Hühnerfilet mit Champignons und Gemüse; dazu Reis|10,90|1
-Mittagsangebot|MT5|Gà Curry|Hühnerfilet mit roter Thai-Curry-Sauce und Gemüse; dazu Reis · scharf|10,90|1,4,6
-Mittagsangebot|MT6|Gà chiên|Gebackenes Hühnerfilet mit Gemüse und Sauce nach Wahl; dazu Reis|10,90|1,4,6
-Mittagsangebot|MT7|Phở bò|Reisbandnudelsuppe mit Rindfleisch, Sojasprossen und Koriander|10,90|4,6
-Mittagsangebot|MT8|Bún bò Nam bộ|Rindfleisch mit Reisnudeln, Salat und Kräutern|10,90|4,5,6
-Mittagsangebot|MT9|Bún gà Curry|Hühnerfilet in Thai-Curry-Sauce mit Reisnudeln und Gemüse · scharf|10,90|4,6
+Mittagsangebot|MT3|Đậu phụ Curry|Tofu in Kokosmilch und rotem Thai-Curry mit Karotten, Zwiebeln, Paprika, Zucchini und Champignons; dazu Reis · scharf|10,90|1,4,6
+Mittagsangebot|MT4|Gà xào nấm|Hühnerfilet mit frischen Champignons, Karotten, Lauchzwiebeln und Paprika; dazu Reis|10,90|1
+Mittagsangebot|MT5|Gà Curry|Hühnerfilet in Kokosmilch und rotem Thai-Curry mit Karotten, Zwiebeln, Paprika, Zucchini, Champignons und Auberginen; dazu Reis · scharf|10,90|1,4,6
+Mittagsangebot|MT6|Gà chiên|Gebackenes Hühnerfilet mit Gemüse; Süß-Sauer-, Pikant- oder Teriyaki-Sauce nach Wahl, Kokossauce +1,00 €; dazu Reis|10,90|1,4,6
+Mittagsangebot|MT7|Phở bò|Reisbandnudelsuppe mit Rindfleisch, Lauchzwiebeln, Sojasprossen und Koriander|10,90|4,6
+Mittagsangebot|MT8|Bún bò Nam bộ|Gegrilltes zartes Rindfleisch mit Reisnudeln, Salat, frischen Kräutern und hausgemachter Sauce|10,90|4,5,6
+Mittagsangebot|MT9|Bún gà Curry|Hühnerfleisch in rotem Thai-Curry mit Reisnudeln, Kokosmilch, Karotten, Zwiebeln, Zucchini, Paprika, Champignons und Auberginen · scharf|10,90|4,6
 Mittagsangebot|MT10|Bò xào rau|Rindfleischstreifen mit Gemüse und Reis|10,90|1,4,6
 Mittagsangebot|MT11|Tôm xào rau|Garnelen mit Gemüse und Reis|11,50|1,4,6
-Mittagsangebot|MT12|Vịt chiên|Knusprige Ente mit Gemüse und Sauce nach Wahl; dazu Reis|11,50|1,4,6
+Mittagsangebot|MT12|Vịt chiên|Knusprig gebackene Ente mit Gemüse; Süß-Sauer-, Pikant- oder Teriyaki-Sauce nach Wahl, Kokossauce +1,00 €; dazu Reis|11,50|1,4,6
 Mittagsangebot|MT13|Mì xào gà|Gebratene Nudeln mit Hühnerfleisch und Gemüse|10,90|1,4,6
 Đồ ăn trẻ em / Kinder|100|Mì xào rau bé|Gebratene Nudeln mit Gemüse · vegetarisch|7,90|1,4,6
 Đồ ăn trẻ em / Kinder|101|Mì xào gà bé|Gebratene Nudeln mit Hühnerfilet und Gemüse|8,50|1,4,6
@@ -154,7 +155,7 @@ Mittagsangebot|MT13|Mì xào gà|Gebratene Nudeln mit Hühnerfleisch und Gemüse
 Đồ ăn trẻ em / Kinder|104|Rau xào bé|Gebratenes Gemüse mit Lauchzwiebeln · vegetarisch|7,90|1,4,6
 Đồ ăn trẻ em / Kinder|105|Rau xào gà bé|Hühnerfilet mit Gemüse und Lauchzwiebeln|8,50|1,4,6
 Đồ ăn trẻ em / Kinder|106|Khoai lang chiên|Knusprige Süßkartoffeln mit Ketchup und Mayonnaise|7,50|1,2
-Đồ ăn trẻ em / Kinder|107|Gà chiên|Knuspriges Hühnerfilet mit Süß-Sauer-Sauce und Gemüse|7,90|2
+Đồ ăn trẻ em / Kinder|107|Gà chiên|Knuspriges Hühnerfilet mit Süß-Sauer-Sauce, Paprika, Zwiebeln, Ananas und Karotten|7,90|2
 Đồ ăn trẻ em / Kinder|108|Gà xiên|Gegrillte Hühnerspieße mit Gemüse und Pommes oder Süßkartoffel-Pommes|8,90|
 Viet Family Specials / Getränke||Magic Blue Eistee · 0,4 l|Butterfly Pea Tea, brauner Zucker und Limetten|4,90|
 Viet Family Specials / Getränke||Energie Wasser · 0,4 l|Frische Limette, Gurke und Minze|4,90|
@@ -164,38 +165,38 @@ Viet Family Specials / Getränke||Lychee Love · 0,4 l|Frischer Lychee- und Cran
 Viet Family Specials / Getränke||Mango Lassi · 0,3 l|Naturjoghurt und Milch mit Mango-Fruchtmark|5,50|
 Viet Family Specials / Getränke||Nước ép chanh leo · 0,4 l|Maracujasaft mit Eiswürfeln|4,90|
 Viet Family Specials / Getränke||Nước chanh đá · 0,4 l|Frisch gepresster Limettensaft mit Eiswürfeln|4,90|
-Viet Family Specials / Getränke||Nước đào · 0,4 l|Pfirsich-Eistee|5,90|
-Tee & Kaffee||Trà xanh|Grüner Tee im Kännchen|3,50|
-Tee & Kaffee||Trà Jasmin|Jasmintee im Kännchen|3,50|
-Tee & Kaffee||Trà gừng|Ingwertee mit Pfefferminze, Zitrone und Honig|4,50|
-Tee & Kaffee||Trà cam|Orangentee mit Pfefferminze, Zitrone und Honig|4,50|
-Tee & Kaffee||Trà sả|Zitronengrastee|4,50|
-Tee & Kaffee||Cà phê nóng|Vietnamesischer Filterkaffee mit Kondensmilch|4,50|
-Tee & Kaffee||Cà phê sữa đá|Vietnamesischer Eiskaffee mit Kondensmilch|4,90|
-Softdrinks & Säfte||Coca Cola · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Coca Cola Light · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Coca Cola Zero · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Fanta · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Sprite · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Mezzo Mix · 0,2 l / 0,4 l||2,90 / 4,20|
-Softdrinks & Säfte||Staatl. Fachingen still · 0,25 l / 0,75 l||2,90 / 6,90|
-Softdrinks & Säfte||Staatl. Fachingen sprudel · 0,25 l / 0,75 l||2,90 / 6,90|
-Softdrinks & Säfte||Bitter Lemon · 0,2 l||3,50|
-Softdrinks & Säfte||Tonic · 0,2 l||3,50|
-Softdrinks & Säfte||Ginger Ale · 0,2 l||3,50|
-Softdrinks & Säfte||Apfelsaft · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Orangensaft · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Mango Nektar · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Rhabarber Nektar · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Maracuja Nektar · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Litchi Nektar · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Guaven Nektar · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Kiba · 0,2 l / 0,4 l||3,20 / 4,90|
-Softdrinks & Säfte||Saftschorle · 0,2 l / 0,4 l||3,00 / 4,90|
-Bier||Carlsberg vom Fass · 0,3 l / 0,5 l||3,90 / 4,90|
-Bier||Alsterwasser vom Fass · 0,3 l / 0,5 l||3,90 / 4,90|
-Bier||Astra vom Fass · 0,3 l / 0,5 l||3,90 / 4,90|
-Bier||Duckstein Original vom Fass · 0,3 l / 0,5 l||4,20 / 5,20|
+Viet Family Specials / Getränke||Nước đào · 0,4 l|Frischer Jasmintee und Pfirsich mit Eiswürfeln|5,90|
+Hausgemachter Tee & Vietnamesischer Kaffee||Trà xanh|Grüner Tee im Kännchen|3,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Trà Jasmin|Jasmintee im Kännchen|3,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Trà gừng|Ingwertee mit Pfefferminze, Zitrone und Honig|4,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Trà cam|Orangentee mit Pfefferminze, Zitrone und Honig|4,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Trà sả|Zitronengrastee|4,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Cà phê nóng|Vietnamesischer Filterkaffee mit Kondensmilch|4,50|
+Hausgemachter Tee & Vietnamesischer Kaffee||Cà phê sữa đá|Vietnamesischer Eiskaffee mit Kondensmilch|4,90|
+Softdrinks & Säfte||Coca Cola|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Coca Cola Light|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Coca Cola Zero|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Fanta|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Sprite|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Mezzo Mix|0,2 l / 0,4 l|2,90 / 4,20|
+Softdrinks & Säfte||Staatl. Fachingen still|0,25 l / 0,75 l|2,90 / 6,90|
+Softdrinks & Säfte||Staatl. Fachingen sprudel|0,25 l / 0,75 l|2,90 / 6,90|
+Softdrinks & Säfte||Bitter Lemon · 0,25 l||3,50|
+Softdrinks & Säfte||Tonic · 0,25 l||3,50|
+Softdrinks & Säfte||Ginger Ale · 0,25 l||3,50|
+Softdrinks & Säfte||Apfelsaft|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Orangensaft|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Mango Nektar|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Rhabarber Nektar|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Maracuja Nektar|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Litchi Nektar|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Guaven Nektar|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Kiba|0,2 l / 0,4 l|3,20 / 4,90|
+Softdrinks & Säfte||Saftschorle|0,2 l / 0,4 l|3,00 / 4,90|
+Bier||Carlsberg vom Fass|0,3 l / 0,5 l|3,90 / 4,90|
+Bier||Alsterwasser vom Fass|0,3 l / 0,5 l|3,90 / 4,90|
+Bier||Astra vom Fass|0,3 l / 0,5 l|3,90 / 4,90|
+Bier||Duckstein Original vom Fass|0,3 l / 0,5 l|4,20 / 5,20|
 Bier||Bier Sai Gon · 0,3 l||4,50|
 Bier||Holsten Alkoholfrei · 0,33 l||3,90|
 Bier||Erdinger Alkoholfrei · 0,5 l||4,90|
@@ -209,11 +210,11 @@ Cocktails||Mojito Viet Nam|Vietnamesischer Wodka, Zitrone, Minze und Rohrzucker|
 Cocktails||Lúa Mới Gừng|Vietnamesischer Wodka, Zitrone, Minze, Ingwer und Rohrzucker|7,90|
 Cocktails||Mango Fridge|Vietnamesischer Wodka, Zitrone, Minze, Mango und Rohrzucker|7,90|
 Cocktails||Gin Tonic|Bombay Sapphire Gin, Thomas Henry Tonic, Minze und Gurke|8,90|
-Wein||Bordeaux Chateau Merlot · Rotwein · 0,2 l / 0,75 l||5,90 / 15,90|
+Wein||Bordeaux Chateau Merlot · Rotwein|0,2 l / 0,75 l|5,90 / 15,90|
 Wein||Rotwein Schorle · 0,2 l||5,90|
-Wein||Riesling · Weißwein · 0,2 l / 0,75 l||5,90 / 15,90|
-Wein||Sauvignon Blanc · Weißwein · 0,2 l / 0,75 l||4,90 / 14,90|
-Wein||Grauburgunder · Weißwein · 0,2 l / 0,75 l||5,90 / 15,90|
+Wein||Riesling · Weißwein|0,2 l / 0,75 l|5,90 / 15,90|
+Wein||Sauvignon Blanc · Weißwein|0,2 l / 0,75 l|4,90 / 14,90|
+Wein||Grauburgunder · Weißwein|0,2 l / 0,75 l|5,90 / 15,90|
 Wein||Weißwein Schorle · 0,2 l||5,90|
 Spirituosen||Bombay Sapphire London Dry Gin · 4 cl||3,90|
 Spirituosen||Bacardi Carta Blanca · 4 cl||3,90|
@@ -222,3 +223,69 @@ Spirituosen||Ramazotti · 4 cl||3,90|
 Spirituosen||Baileys · 4 cl||3,90|
 Spirituosen||Lúa Mới · 2 cl||3,50|
 Spirituosen||Lúa Nếp · 2 cl||3,50|
+Sushi / Maki|S1|Kappa Maki|Gurke · 8 Stk.|4,50|
+Sushi / Maki|S2|Avocado Maki|Avocado · 8 Stk.|4,90|
+Sushi / Maki|S3|Lachs Maki|Frischer Lachs · 8 Stk.|5,50|
+Sushi / Maki|S4|Ebi Maki|Gekochte Garnelen · 8 Stk.|4,90|
+Sushi / Nigiri|S5|Lachs Nigiri|Frischer Lachs · 2 Stk.|4,90|
+Sushi / Nigiri|S6|Ebi Nigiri|Gekochte Garnelen · 2 Stk.|4,90|
+Sushi / Nigiri|S7|Avocado Nigiri|Frische Avocado · vegan · 2 Stk.|4,50|
+Sushi / Nigiri|S8|Tofu Nigiri|Gebratener Tofu mit Teriyaki-Sauce · vegan · 2 Stk.|4,50|
+Sushi / Nigiri|S9|Unagi Nigiri|Gegrillter Aal mit Unagi-Sauce · 2 Stk.|5,90|
+Sushi / Inside Out & Crispy Rolls|S21|California Roll|Surimi, Avocado, Gurke und Sesam · 8 Stk.|6,90|
+Sushi / Inside Out & Crispy Rolls|S22|Veggie Roll|Avocado, Gurke, Frischkäse und Sesam · 8 Stk.|6,90|
+Sushi / Inside Out & Crispy Rolls|S23|Salmon Avocado Roll|Lachs, Avocado, Frischkäse und Sesam · 8 Stk.|7,90|
+Sushi / Inside Out & Crispy Rolls|S24|Crispy Chicken Roll|Knuspriges Hähnchen, Avocado, Gurke, Frischkäse und Teriyaki-Sauce · 8 Stk.|7,90|
+Sushi / Inside Out & Crispy Rolls|S25|Dragon Crispy Roll|Tempura-Garnelen, Avocado, Unagi-Sauce und Sesam · 8 Stk.|8,90|
+Sushi / Frittierte Sushi|S30|Crispy Salmon Roll|Lachs, Frischkäse und Avocado, knusprig frittiert · 6 Stk.|8,50|
+Sushi / Frittierte Sushi|S31|Crispy Chicken Roll|Knuspriges Hähnchen, Frischkäse, Avocado und Gurke, frittiert · 6 Stk.|8,50|
+Sushi / Frittierte Sushi|S32|Crispy Ebi Roll|Tempura-Garnelen, Avocado, Gurke und Spicy Mayo · 6 Stk.|8,90|
+Sushi / Frittierte Sushi|S33|Crunchy California Roll|Surimi, Avocado und Gurke, frittiert · 6 Stk.|7,50|
+Sushi / Frittierte Sushi|S34|Frittierte Sushi Platte|18 Stk.|23,90|
+Poke Bowls|S40|Bowl Salmon|Sushireis, frischer Lachs, Avocado, Gurke, Edamame, Wakame und Sesam-Dressing|14,90|
+Poke Bowls|S41|Poke Bowl Crispy Chicken|Sushireis, Mais, knuspriges Hähnchen, Avocado, Karotten und Teriyaki-Sauce|13,90|
+Poke Bowls|S42|Poke Bowl Ebi Tempura|Sushireis, Tempura-Garnelen, Avocado, Edamame und Spicy Mayo|14,90|
+Poke Bowls|S43|Veggie Bowl|Sushireis, Avocado, Gurke, Wakame, Mango, Paprika und Edamame|13,90|
+Bubble Tea / Milchtee|201|Klassischer Perlen-Milchtee|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milchtee|202|Jasmin Milchtee|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milchtee|203|Karamell Milchtee|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milchtee|204|Gerösteter Oolong Milchtee|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Salted Latte|301|Matcha Latte|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Salted Latte|302|Taro Latte|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Salted Latte|303|Kokosnuss Latte|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milk Float|401|Grüner Tee Milk Float|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milk Float|402|Schwarztee Milk Float|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milk Float|403|Gerösteter Oolong Milk Float|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Früchtetee|501|Mango Grüner Tee|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|502|Passionsfrucht|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|503|Weißer Pfirsich|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|504|Erdbeere|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|505|Litschi|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|506|Blaubeere Schwarzer Tee|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|507|Apfel|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|508|Kiwi|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|509|Himbeere|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|510|Kirsche|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|511|Granatapfel|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|512|Honigmelone|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|513|Wassermelone|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|514|Ananas|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|515|Guava|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|516|Rose|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Früchtetee|517|Hibiscus|0,3 l / 0,5 l · Mit grünem oder schwarzem Tee|3,90 / 4,50|
+Bubble Tea / Yogurt Drink|601|Mango Yogurtdrink|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Yogurt Drink|602|Maracuja Yogurtdrink|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Yogurt Drink|603|Erdbeer Yogurtdrink|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Yogurt Drink|604|Weißer Pfirsich Yogurtdrink|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Yogurt Drink|605|Blaubeer Yogurtdrink|0,3 l / 0,5 l|4,70 / 5,20|
+Bubble Tea / Milchgetränke|701|Taromilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milchgetränke|702|Kokosnussmilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milchgetränke|703|Taro-Kokosmilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milchgetränke|704|Mango-Kokosmilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milchgetränke|705|Mangomilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Milchgetränke|706|Matchamilch|0,3 l / 0,5 l|4,90 / 5,50|
+Bubble Tea / Spezialangebote|801|Brauner Zucker Latte mit Tapioka|0,3 l / 0,5 l|5,40 / 5,90|
+Bubble Tea / Spezialangebote|802|Frische Zitronen Jasmintee|0,3 l / 0,5 l|5,40 / 5,90|
+Bubble Tea / Spezialangebote|803|Milchkaffee mit Salted Latte|0,3 l / 0,5 l|5,40 / 5,90|
+Bubble Tea / Spezialangebote|804|Mango / Maracuja Lila Butterfly Tee|0,3 l / 0,5 l|5,40 / 5,90|
+Für Winter||Hausgemachter Ingwertee|Mit Zitronengras und Minze|4,90|
