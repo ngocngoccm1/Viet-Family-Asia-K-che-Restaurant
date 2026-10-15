@@ -1,6 +1,6 @@
 # Viet Family — Website
 
-Die statische Website kann direkt über `index.html` geöffnet oder auf einem einfachen Webserver bereitgestellt werden. Die vollständige Speisekarte wurde aus `Speise A4-2_260927_161621.pdf` (24 Seiten) als Text übertragen und ist unter `speisekarte.html` verfügbar. Sie umfasst 227 Positionen einschließlich Varianten und Poke Bowls. Die interaktive Speisekarte zeigt jeweils eine Menügruppe und bietet eine Suche über alle Einträge. Die Quelldaten stehen in `menu-data.tsv`; nach Änderungen erzeugt `python3 build-menu.py` die HTML-Seite neu.
+Die statische Website kann direkt über `index.html` geöffnet oder auf einem einfachen Webserver bereitgestellt werden. Die vollständige Speisekarte wurde aus `Speise A4-2_260927_161621.pdf` (24 Seiten) als Text übertragen und ist unter `speisekarte.html` verfügbar. Sie umfasst 225 Positionen einschließlich Varianten und Poke Bowls. Die interaktive Speisekarte zeigt jeweils eine Menügruppe und bietet eine Suche über alle Einträge. Die Quelldaten stehen in `menu-data.tsv`; nach Änderungen erzeugt `python3 build-menu.py` die HTML-Seite neu.
 
 ## Vor einer öffentlichen Veröffentlichung ergänzen
 
