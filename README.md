@@ -10,7 +10,7 @@ Die statische Website kann direkt über `index.html` geöffnet oder auf einem ei
 
 Die Telefonnummer ist als Bestellkontakt eingebunden. Die Anschrift ist auf dem Deckblatt des Menü-PDFs enthalten und kann separat ergänzt werden. Betreiberangaben und E-Mail liegen weiterhin nicht vor. `rechtliches.html` ist ausdrücklich als unvollständige Struktur markiert.
 
-Lieferinformationen laut Kundenangabe: 29525 Uelzen, 30 € Mindestbestellwert, 2 € Liefergebühr pro Bestellung; Bestelltelefon 0581 97369368.
+Lieferinformationen laut Kundenangabe: 29525 Uelzen, 25 € Mindestbestellwert, 2 € Liefergebühr pro Bestellung; Bestelltelefon 0581 97369368.
 
 Öffnungszeiten, Angebot zum Mitnehmen, Preise und die Speisekarte stammen aus den bereitgestellten Kundendateien. Schriftarten und Fotos werden lokal geladen; es gibt keine Analyse- oder Marketing-Skripte.
 "# Viet-Family-Asia-K-che-Restaurant" 
